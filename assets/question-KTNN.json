@@ -1,0 +1,163 @@
+[
+    {
+        "question": "Bệnh viêm da nổi cục ở gia súc do loại mầm bệnh nào gây nên?",
+        "choices": ["A. Virus.", "B. Vi khuẩn.", "C. Ký sinh trùng.", "D. Côn trùng."],
+        "correct": 0,
+        "topic": "Câu hỏi về Kiến thức Nông nghiệp"
+    },
+    {
+        "question": "Khi trâu bò mắc bệnh viêm da nổi cục người chăn nuôi phải làm gì?",
+        "choices": ["A. Phải báo ngay cho cơ quan thú y địa phương.", "B. Cách ly ngay gia súc bị bệnh, thu gom và xử lý chất thải, diệt côn trùng tại khu vực chăn nuôi và trang trại.", "C. Thực hiện tiêm phòng cho toàn đàn gia súc trong trang trại vì bệnh không có thuốc điều trị đặc hiệu.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Định kỳ kiểm tra cá/tôm nhằm mục đích gì?",
+        "choices": ["A. Xác định sức khỏe của cá/tôm, điều chỉnh thức ăn cho phù hợp.", "B. Xác định khối lượng trung bình (kích cỡ) của cá/tôm.", "C. Tính toán hiệu quả kinh tế.", "D. Đáp án A và B đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Cá nuôi thương phẩm khỏe mạnh thường có biểu hiện thế nào?",
+        "choices": ["A. Cá bơi nhanh, tập trung thành đàn, màu sắc đặc trưng.", "B. Cá bơi chậm, rải rác, không tập trung, màu sắc nhợt nhạt.", "C. Phản ứng tích cực, nhanh chóng tìm đến vị trí có thức ăn, ăn mạnh.", "D. Đáp án A và C đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Các yếu tổ ảnh hưởng đến chất lượng đàn cá giống?",
+        "choices": ["A. Chất lượng đàn cá bố mẹ.", "B. Kỹ thuật cho đẻ, điều kiện môi trường.", "C. Nguồn thức ăn cung cấp cho cá.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Ao nuôi cá nước ngọt điều kiện môi trường pH nước khoảng bao nhiêu là đạt yêu cầu?",
+        "choices": ["A. <5.", "B. 5 - 6,6.", "C. 6,5 - 8.", "D. 8 - 10."],
+        "correct": 2
+    },
+    {
+        "question": "Thứ tự các bước thả cá giống khi cá giống đã được xử lý tại nơi cung cấp?",
+        "choices": ["A. Ngâm bao chứa cá, mở miệng bao, cho nước từ từ vào bao, để cá tự bơi ra ngoài.", "B. Ngâm bao chứa cá, mở miệng bao, cho nước từ từ vào bao, đổ cá giống ra ngoài.", "C. Thả cá ra luôn để kịp thích nghi với môi trường.", "D. Mở miệng bao chứa cá và đổ cá giống ra ngoài."],
+        "correct": 0
+    },
+    {
+        "question": "Khi cá, tôm có hiện tượng nổi đầu hàng loạt, hoạt động yếu (không phản ứng với tiếng động) thì phải có biện pháp gì xử lý kịp thời?",
+        "choices": ["A. Giảm lượng thức ăn hoặc ngừng cho cá/tôm ăn, tăng cưòng sục khí hoặc quạt nước.", "B. Tăng lượng thức ăn, sục khí hoặc quạt nước, bổ sung nước mới.", "C. Bổ sung men vi sinh vào thức ăn, sử dụng hoá chất để xử lý môi trường.", "D. Tăng cường sục khí/quạt nước, tăng lượng thức ăn giúp cá khoẻ hơn."],
+        "correct": 0
+    },
+    {
+        "question": "Ưu điểm của phương pháp trộn men vi sinh vào thức ăn cho tôm, cá?",
+        "choices": ["A. Không ảnh hưởng đến sức khỏe của tôm/cá, sử dụng để phòng bệnh và tăng sức đề kháng cho tôm/cá.", "B. Thực hiện dễ dàng, cá hết bệnh sau khi cho ăn.", "C. Phòng bệnh và trị một số bệnh do sinh vật ký sinh trong cơ thể tôm/cá.", "D. Không ảnh hưởng đến sức khỏe của tôm/cá, sử dụng để phòng bệnh."],
+        "correct": 0
+    },
+    {
+        "question": "Khi nhiệt độ quá cao hay quá thấp có ảnh hưởng như thế nào đến sinh trưởng và phát triển của cá, tôm?",
+        "choices": ["A. Cá/tôm hoạt động mạnh hơn, tiêu hóa thức ăn tốt hơn.", "B. Cá/tôm ăn mạnh hơn, lớn nhanh hơn.", "C. Cá/tôm mất cân bằng sinh lý cơ thể, cá/tôm kém ăn, chậm lớn.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 2
+    },
+    {
+        "question": "Công tác phòng bệnh cho đối tượng thủy sản cần phải sử dụng các biện pháp nào?",
+        "choices": ["A. Tăng cường sức đề kháng.", "B. Cải tạo môi trường nuôi.", "C. Tiêu diệt nguồn gốc gây bệnh - mầm bệnh.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Cơ sở nuôi được sử dụng thuốc kháng sinh, hoá chất để chữa trị cho thuỷ sản nuôi tại cơ sở trong trường hợp nào?",
+        "choices": ["A. Tăng cường sức đề kháng cho cơ thể tôm/cá.", "B. Trị bệnh cho tôm/cá, theo chỉ dẫn của cán bộ kỹ thuật.", "C. C.Phòng và trị một số bệnh thường gặp trên tôm cá.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 1
+    },
+    {
+        "question": "Các con đường lây truyền bệnh trên cá?",
+        "choices": ["A. Do sức khỏe của cá.", "B. Con đường tiếp xúc trực tiếp, do môi trường.", "C. Do cá di cư và dụng cụ đánh bắt.", "D. Đáp án B và C đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Phun thuốc khử trùng chỉ có tác dụng khi nào?",
+        "choices": ["A. Không vệ sinh trước hoặc vệ sinh bề mặt không sạch.", "B. Sử dụng nước cứng để pha thuốc khử trùng.", "C. Khi đã vệ sinh làm sạch, pha thuốc khử trùng đúng nồng độ, sử dụng đúng liều lượng.", "D. Khi đã vệ sinh làm sạch, pha thuốc khử trùng."],
+        "correct": 2
+    },
+    {
+        "question": "Nhân giống cây ăn trái bằng hạt có nhược điểm gì?",
+        "choices": ["A. Có thể không giống đặc tính cây mẹ.", "B. Chịu hạn kém.", "C. Tuổi thọ ngắn.", "D. Dễ bị đổ ngã."],
+        "correct": 0
+    },
+    {
+        "question": "Ở giai đoạn trái phát triển, dưỡng chất nào cần bón nhiều cho cây ăn trái?",
+        "choices": ["A. Đạm (N).", "B. Lân (P).", "C. Kali (K).", "D. Can-xi (Ca)."],
+        "correct": 2
+    },
+    {
+        "question": "Chọn cách quản lý cỏ vườn cây hạn chế sự suy thoái đất và bền vững nhất:",
+        "choices": ["A. Làm sạch cỏ trên mặt liếp bằng phảng hay dao.", "B. Diệt cỏ triệt để bằng thuốc diệt cỏ.", "C. Để cỏ trong vườn, cắt cỏ chừa lại gốc.", "D. Ba cách trên đều tốt."],
+        "correct": 2
+    },
+    {
+        "question": "Ở giai đoạn trước ra hoa, dưỡng chất nào cần bón nhiều cho cây ăn trái.",
+        "choices": ["A. Lân (P).", "B. Kali (K).", "C. Can-xi (Ca).", "D. Ma-nhê (Mg)."],
+        "correct": 0
+    },
+    {
+        "question": "Phải bao trái ở thời điếm nào để có hiệu quả cao trong canh tác cây ăn trái?",
+        "choices": ["A. Ngay sau khi đậu trái.", "B. Trước khi thu hoạch 01 tháng.", "C. Sau khi trái rụng sinh lý.", "D. Lúc nào cũng được."],
+        "correct": 2
+    },
+    {
+        "question": "Tại sao không nên để trái cây sau thu hoạch ở chỗ quá nóng hoặc ngoài nắng?",
+        "choices": ["A. Trái sẽ dễ bị bệnh trong lúc bảo quản.", "B. Độ ngọt của trái giảm, trở nên chua.", "C. Màu sắc vỏ trái sẽ không đẹp khi trái chín.", "D. Trái sẽ hô hấp mạnh, mau chín, khó bảo quản đưọc lâu."],
+        "correct": 3
+    },
+    {
+        "question": "Hãy chọn cách tưới nước hạn chế suy thoái đất vườn cây ăn trái?",
+        "choices": ["A. Tưới phun.", "B. Tưới tràn.", "C. Tưới nhỏ giọt.", "D. Ba cách tưới trên đều tốt."],
+        "correct": 2
+    },
+    {
+        "question": "Những chất dinh dưỡng nào sau đây làm vững chắc vách tế bào cho cây?",
+        "choices": ["A. N, P, K.", "B. S, Ca, Si.", "C. Mg, K, Si.", "D. Ca, Si, K."],
+        "correct": 3
+    },
+    {
+        "question": "Bón dư thừa dưỡng chất nào sau đây làm trái chậm chín?",
+        "choices": ["A. Đạm (N).", "B. Can-xi (Ca).", "C. Kali (K).", "D. Lân (L)."],
+        "correct": 0
+    },
+    {
+        "question": "Biện pháp hạn chế rụng trái non do úng nước trong mùa mưa?",
+        "choices": ["A. Làm rãnh thoát nước trong vườn.", "B. Đậy nilon trên mặt đất quanh gốc chắn mưa.", "C. Để cỏ trong vườn.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Số lượng hạt trên bông lúa được quyết định ở giai đoạn nào sau đây?",
+        "choices": ["A. Giai đoạn đẻ nhánh.", "B. Giai đoạn làm đòng.", "C. Giai đoạn trỗ bông.", "D. Giai đoạn lúa chín."],
+        "correct": 1
+    },
+    {
+        "question": "Tác dụng chính của việc cày ải đất phèn trong canh tác lúa?",
+        "choices": ["A. Giúp cho đất tơi xốp.", "B. Cắt đứt mao quản phèn, giảm sự xì phèn lên tầng mặt.", "C. Hạn chế sâu bệnh và cỏ dại.", "D. Cây lúa phát triển tốt hơn."],
+        "correct": 1
+    },
+    {
+        "question": "Canh tác lúa thông minh thực hiện nhằm giúp nhà nông đạt được mục tiêu nào sau đây?",
+        "choices": ["A. Giảm giống chỉ còn 80kg/ha trở xuống.", "B. Giảm phân bón.", "C. Giảm chi phí sản xuất.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Bón phân NPK có hàm lượng lân cao vào giai đoạn nào của cây lúa cho đúng?",
+        "choices": ["A. Bón lót và bón nuôi hạt.", "B. Bón thúc đẻ nhánh và bón nuôi hạt.", "C. Bón lót và bón thúc đẻ nhánh.", "D. Bón lót, bón thúc đẻ nhánh vfa bón nuôi đòng."],
+        "correct": 2
+    },
+    {
+        "question": "Khi canh tác lúa, nguyên nhân gây phát thải các khí nhà kính các-bô-nít (CO2), Oxit-nitơ (N2O), Metan (CH4) là gì?",
+        "choices": ["A. Đốt rơm rạ.", "B. Bón thừa phân đạm.", "C. Giữ nước quá lâu trên ruộng lúa.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Thời gian đốn tỉa, cắt cành, tạo tán cây ăn quả thích hợp nhất sau thu hoạch bao nhiêu ngày?",
+        "choices": ["A. Từ 01 đến 07 ngày.", "B. Từ 10 - 20 ngày.", "C. Từ 20 - 30 ngày.", "D. Từ 30 - 40 ngày."],
+        "correct": 0
+    },
+    {
+        "question": "Khi đã phun thuốc trừ sâu bệnh cho rau, củ, quả, thời gian sau bao lâu thì thu hoạch để sử dụng là an toàn?",
+        "choices": ["A. Sau khi phun từ 1 đến 2 ngày.", "B. Theo hướng dẫn trên bao bì của nhà sản xuất.", "C. Sau khi phun từ 3 đến 5 ngày.", "D. Sau khi phun từ 5 đến 7 ngày."],
+        "correct": 1
+    },
+    {
+        "question": "Trong sản xuất rau an toàn, nếu phải dùng thuốc bảo vệ thực vật thì ưu tiên dùng loại thuốc nào?",
+        "choices": ["A. Thuốc hoá học.", "B. Chất kích thích sinh trưởng.", "C. Thuốc thảo mộc hoặc chế phẩm sinh học.", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 2
+    }
+]

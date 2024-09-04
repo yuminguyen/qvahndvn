@@ -1,0 +1,263 @@
+[
+    {
+        "question": "Đại hội Đại biểu Hội Nông dân tỉnh Đồng Tháp lần thứ X diễn ra vào ngày tháng năm nào?",
+        "choices": ["A. Ngày 28 - 29 tháng 8 năm 2023.", "B. Ngày 30 - 31 tháng 8 năm 2023.", "C. Ngày 28-29 tháng 9 năm 2023.", "D. Ngày 28 - 29 tháng 7 năm 2023."],
+        "correct": 1,
+        "topic": "Câu hỏi về Kiến thức chung"
+    },
+    {
+        "question": "Dại hội Đại biểu Hội Nông dân tỉnh Đồng Tháp lần thứ X, nhiệm kỳ 2023 - 2028 đã đề ra những nhiệm vụ trọng tâm nào?",
+        "choices": ["A. Xây dựng Hội Nông dân Đồng Tháp vững mạnh.", "B. Thực hiện cuộc vận động “Hội viên, nông dân trở thành Người Nông dân chuyên nghiệp”.", "C. Thực hiện Đề án “Nông dân Đồng Tháp tái sử dụng rác thải sinh hoạt hữu cơ, phụ phẩm nông nghiệp tạo ra chế phẩm sinh học phục vụ sản xuất”.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Nghị quyết Đại hội đại biểu Hội Nông dân tỉnh Đồng Tháp lần thứ X, nhiệm kỳ 2023 - 2028, kết nạp bao nhiêu hội viên mới?",
+        "choices": ["A. Từ 50.000 hội viên mới trở lên.", "B. Từ 60.000 hội viên mới trở lên.", "C. Từ 70.000 hội viên mới trở lên.", "D. Từ 80.000 hội viên mới trở lên."],
+        "correct": 1
+    },
+    {
+        "question": "Chủ đề Đại hội Đại biểu Hội Nông dân tỉnh Đồng Tháp lần thứ X, nhiệm kỳ 2023 - 2028 có nội dung gì?",
+        "choices": ["A. “Đoàn kết - Dân chủ, Sáng tạo - Hợp tác, Khát vọng - Phát triển”.", "B. “Đoàn kết - Sáng tạo - Hợp tác, Khát vọng - Phát triển”.", "C. “Đoàn kết - Dân chủ - Hợp tác - Khát vọng - Phát triển”.", "D. “Đoàn kết - Dân chủ - Sáng tạo - Hợp tác - Phát triển”."],
+        "correct": 0
+    },
+    {
+        "question": "Đại hội Đại biểu Hội Nông dân tỉnh Đồng Tháp lần thứ X, nhiệm kỳ 2023 - 2028 đã đề ra bao nhiêu nhiệm vụ trọng tâm?",
+        "choices": ["A. 3 nhiệm vụ trọng tâm.", "B. 4 nhiệm vụ trọng tâm.", "C. 5 nhiệm vụ trọng tâm.", "D. 6 nhiệm vụ trọng tâm."],
+        "correct": 0
+    },
+    {
+        "question": "Đại hội Đại biểu Hội Nông dân tỉnh Đồng Tháp lần thứ X, nhiệm kỳ 2023 - 2028 đã đề ra bao nhiêu chỉ tiêu chủ yếu?",
+        "choices": ["A. 11 chỉ tiêu chủ yếu.", "B. 12 chỉ tiêu chủ yếu.", "C. 13 chỉ tiêu chủ yếu.", "D. 14 chỉ tiêu chủ yếu."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Quy định số 181-QĐ/HNDTW, ngày 20/02/2024 của Ban Thường vụ Trung ương Hội NDVN thì Danh hiệu hộ nông dân sản xuất kinh doanh giỏi hiện nay được chia làm mấy cấp?",
+        "choices": ["A. 2 cấp.", "B. 3 cấp.", "C. 4 cấp.", "D. 5 cấp."],
+        "correct": 2
+    },
+    {
+        "question": "Theo Quy định số 181-QĐ/HNDTW, ngày 20/02/2024 của Ban Thường vụ Trung ương Hội NDVN, việc xét danh hiệu hộ nông dân sản xuất, kinh doanh giỏi các cấp dựa trên tiêu chuẩn nào? (Cập nhật Quyết định số 181-QĐ/HNDTW ngày 20/02/2024)",
+        "choices": ["A. Tiêu chuẩn về thu nhập.", "B. Tiêu chuẩn về đoàn kết, tương trợ giúp đỡ lẫn nhau.", "C. Tiêu chuẩn về tạo việc làm.", "D. Câu A và B đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Thời gian tổ chức Hội nghị tổng kết phong trào nông dân sản xuất, kinh doanh giỏi theo Hướng dẫn số 04-HD/HNDT ngày 28/06/2024 của Ban Thường vụ Hội Nông dân Tỉnh, diễn ra như thế nào?",
+        "choices": ["A. Cấp Cơ sở tổ chức Hội nghị tổng kết phong trào nông dân sản xuất, knh doanh giỏi hằng năm (Thời gian tổ chức 01 buổi, 1/2 ngày).", "B. Cấp Huyện tổ chức hội nghị tổng kết phong trào nông dân sản xuất, kinh doanh giỏi 03 năm 1 lần (Thời gian tổ chức không quá 1 ngày).", "C. Cấp Tỉnh tổ chức Hội nghị tổng kết phong trào nông dân sản xuất, kinh doanh giỏi 05 năm 1 lần (Thời gian tổ chức không quá 2 ngày).", "D. Cả ba đáp án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Cuộc vận động “Hội viên nông dân trở thành Người Nông dân chuyên nghiệp” đề ra bao nhiêu tiêu chuẩn bình xét?",
+        "choices": ["A. 6 tiêu chuẩn.", "B. 7 tiêu chuẩn.", "C. 8 tiêu chuẩn.", "D. 9 tiêu chuẩn."],
+        "correct": 2
+    },
+    {
+        "question": "Nội dung nào là tiêu chí bình xét của Cuộc vận động “Hội viên nông dân trở thành Người Nông dân chuyên nghiệp”?",
+        "choices": ["A. Tham gia vào tổ chức CT-XH và Tổ Nhân dân tự quản.", "B. Sản xuất nông nghiệp theo hướng hữu cơ, an toàn.", "C. Có tư duy kinh tế nông nghiệp và kiến thức thị trường.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Điều lệ Hội Nông dân Việt Nam (khóa VIII), đâu là nhiệm vụ của hội viên Hội Nông dân?",
+        "choices": ["A. Chấp hành Điều lệ, nghị quyết, chỉ thị của Hội, sinh hoạt và đóng hội phí đầy đủ theo quy định của Ban Thường vụ Trung ương Hội.", "B. Gương mẫu và tuyên truyền, vận động nông dân thực hiện chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước về phát triển kinh tế - xã hội; đoàn kết tương trợ giúp đỡ lẫn nhau; thực hiện dân chủ ở cơ sở, xây dựng đời sống văn hóa ở khu dân cư, gia đình văn hóa; thực hiện nghĩa vụ công dân, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.", "C. Xây dựng tổ chức Hội vũng mạnh; tuyên truyền, vận động phát triển hội viên; tham gia các hoạt động và phong trào nông dân ở địa phương, xây dựng quỹ hoạt động Hội.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Điều lệ Hội Nông dân Việt Nam (khóa VIII), đâu là Quyền lợi của hội viên Hội Nông dân?",
+        "choices": ["A. Được dân chủ thảo luận và biểu quyết những công việc của Hội; phê bình chất vấn tổ chức và cán bộ Hội; đề bạt với tổ chức Hội và thông qua tổ chức Hội đề xuất với Đảng, Nhà nước về nguyện vọng hợp pháp, chính đáng của mình.", "B. Được Hội hướng dẫn, giúp đỡ và bảo vệ quyền, lợi ích hợp pháp, chính đáng.", "C. Được ứng cử, đề cử, bầu cử vào các cơ quan lãnh đạo của Hội.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Điều lệ Hội Nông dân Việt Nam (khóa VIII), quy định đối tượng nào đương nhiên là hội viên Hội Nông dân Việt Nam?",
+        "choices": ["A. Chủ tịch, Phó Chủ tịch Hội Nông dân từ cơ sở trở lên đương nhiên là Hội viên Hội Nông dân Việt Nam.", "B. Ủy viên Ban Thường vụ từ cơ sở trở lên đương nhiên là hội viên Hội Nông dân Việt Nam.", "C. Ủy viên Ban Chấp hành từ cơ sở trở lên đương nhiên là hội viên Hội Nông dân Việt Nam.", "D. Ủy viên Ban Chấp hành từ cấp huyện trở lên đương nhiên là hội viên Hội Nông dân Việt Nam."],
+        "correct": 2
+    },
+    {
+        "question": "Theo Điều lệ Hội Nông dân Việt Nam (khóa VIII), quy định chế độ họp Ban Chấp hành Chi hội và chế độ sinh hoạt Chi hội như thế nào?",
+        "choices": ["A. Chi hội họp ba tháng một lần, khi cần thiết có thể họp bất thường.", "B. Chi hội đông hội viên được chia thành các tổ hội (theo địa bàn, đối tượng, nghề nghiệp...). Ban Chấp hành chi hội họp một tháng 1 lần. Chi hội định kỳ tổ chức hội nghị sơ kết, tổng kết. Chi hội không chia thành các tổ hội sinh hoạt ba tháng 1 lần, khi cần thiết sinh hoạt bất thường.", "C. Chi hội họp mỗi tháng 1 lần, khi cần thiết có thể họp bất thường.", "D. Chi hội họp hai tháng một lần, khi cần thiết có thể họp bất thường."],
+        "correct": 1
+    },
+    {
+        "question": "Nghị quyết Đại hội đại biểu toàn quốc Hội Nông dân Việt Nam lần thứ VIII đề ra những nhiệm vụ đột phá nào?",
+        "choices": ["A. Đổi mới mạnh mẽ phương pháp tập hợp, đoàn kết nông dân.", "B. Tích cực tham gia phát triển kinh tế tập thể trong nông nghiệp.", "C. Nâng cao trình độ, kỹ năng cho nông dân và cán bộ Hội các cấp.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Nghị quyết số 46-NQ/TW của Bộ Chính trị về đổi mới, nâng cao chất lượng hoạt động của Hội Nông dân Việt Nam đáp ứng yêu cầu, nhiệm vụ cách mạng trong gia đoạn mới được ban hành vào ngày tháng năm nào?",
+        "choices": ["A. Ngày 19 tháng 12 năm 2023.", "B. Ngày 20 tháng 12 năm 2023.", "C. Ngày 21 tháng 12 năm 2023.", "D. Ngày 22 tháng 12 năm 2023."],
+        "correct": 1
+    },
+    {
+        "question": "Nghị quyết số 46-NQ/TW của Bộ Chính trị về đổi mới, nâng cao chất lượng hoạt động của Hội Nông dân Việt Nam đáp ứng yêu cầu, nhiệm vụ cách mạng trong giai đoạn mới đề ra mục tiêu tổng quát như thế nào?",
+        "choices": ["A. Đổi mới, nâng cao chất lượng phong trào nông dân, xây dựng Hội Nông dân Việt Nam vững mạng; động viên, cổ vũ nông dân nâng cao nhận thức, trách nhiệm, trình độ, tích cực tham gia phát triển nông nghiệp sinh thái, nông thôn hiện đại, nông dân văn minh, nâng cao đời sống vật chất, tinh thần, góp phần cho sự nghiệp xây dựng và bảo vệ Tổ quốc.", "B. Đổi mới, nâng cao chất lượng phong trào thi đua yêu nước, xây dựng Hội Nông dân Việt Nam vững mạnh; làm tốt vai trò đại diện; động viên, cổ vũ nông dân nâng cao nhận thức, trách nhiệm, trình độ, tích cực tham gia phát triển nông nghiệp sinh thái, nông thôn hiện đại, nông dân văn minh, nâng cao đời sống vật chất, tinh thần, góp phần cho sự nghiệp xây dựng và bảo vệ Tổ quốc, phát triển đất nước ngày càng phồn vinh, hạnh phúc.", "C. Đổi mới, nâng cao chất lượng phong trào nông dân, xây dựng Hội Nông dân Việt Nam vững mạnh, làm tốt vai trò đại diện; động viên, cổ vũ nông dân nâng cao nhận thức, trách nhiệm, trình độ, tích cực tham gia phát triển nông nghiệp sinh thái, nông thôn hiện đại, nông dân văn minh, nâng cao đời sống vật chất, tinh thần, góp phần cho sự nghiệp xây dựng và bảo vệ Tổ quốc, phát triển đất nước ngày càng phồn vinh, hạnh phúc.", "D. Động viên, cổ vũ nông dân nâng cao nhận thức, trách nhiệm, trình độ, tích cực tham gia phát triển nông nghiệp sinh thái, nông thôn hiện đại, nông dân văn minh, nâng cao đời sống vật chất, tinh thần, góp phần cho sự nghiệp xây dựng và bảo vệ Tổ quốc, phát triển đất nước ngày càng phồn vinh, hạnh phúc."],
+        "correct": 2
+    },
+    {
+        "question": "Nghị quyết số 46-NQ/TW của Bộ Chính trị về đổi mới, nâng cao chất lượng hoạt động của Hội Nông dân Việt Nam đáp ứng yêu cầu, nhiệm vụ cách mạng trong giai đoạn mới có bao nhiêu nhiệm vụ, giải pháp chủ yếu?",
+        "choices": ["A. 5 nhiệm vụ, giải pháp chủ yếu.", "B. 6 nhiệm vụ, giải pháp chủ yếu.", "C. 7 nhiệm vụ, giải pháp chủ yếu.", "D. 8 nhiệm vụ, giải pháp chủ yếu."],
+        "correct": 2
+    },
+    {
+        "question": "Quyết định số 182-QĐ/TTg của Thủ tướng Chính phủ phê duyệt đề án “Hội Nông dân Việt Nam tham gia phát triển kinh tế tập thể trong nông nghiệp đến năm 2030” được ban hành vào ngày tháng năm nào?",
+        "choices": ["A. Ngày 19 tháng 02 năm 2024.", "B. Ngày 20 tháng 02 năm 2024.", "C. Ngày 21 tháng 02 năm 2024.", "D. Ngày 22 tháng 02 năm 2024."],
+        "correct": 1
+    },
+    {
+        "question": "Quyết định số 182-QĐ/TTg của Thủ tướng Chính phủ phê duyệt đề án “Hội Nông dân Việt Nam tham gia phát triển kinh tế tập thể trong nông nghiệp đến năm 2030” đã đề ra mục tiêu tổng quát như thế nào?",
+        "choices": ["A. Nâng cao vai trò, hiệu quả tham gia phát triển KTTT trong nông nghiệp của Hội Nông dân; khơi dậy tinh thần hợp tác, khởi nghiệp, sáng tạo của hội viên, nông dân; thu hút ngày càng nhiều hội viên, nông dân, cá nhân và tổ chức tham gia phát triển KTTT trong nông nghiệp; góp phần nâng cao thu nhập và chất lượng cuộc sống của thành viên, hộ gia đình, thực hiện vai trò và trách nhiệm xã hội, phát triển bền vững.", "B. Nâng cao vai trò, hiệu quả tham gia phát triển KTTT trong nông nghiệp của Hội Nông dân; thu hút ngày càng nhiều hội viên, nông dân, cá nhân và tổ chức tham gia phát triển KTTT trong nông nghiệp; góp phần nâng cao thu nhập và chất lượng cuộc sống của thành viên, hộ gia đình, thực hiện vai trò và trách nhiệm xã hội, phát triển bền vững.", "C. Nâng cao vai trò, hiệu quả tham gia phát triển KTTT trong nông nghiệp của Hội Nông dân; khơi dậy tinh thần hợp tác, khởi nghiệp, sáng tạo của hội viên, nông dân; góp phần nâng cao thu nhập và chất lượng cuộc sống của thành viên, hộ gia đình, thực hiện vai trò và trách nhiệm xã hội, phát triển bền vững.", "D. D.Nâng cao vai trò, hiệu quả tham gia phát triển KTTT trong nông nghiệp của Hội Nông dân; khơi dậy tinh thần hợp tác, khởi nghiệp, sáng tạo của hội viên, nông dân; thu hút ngày càng nhiều hội viên, nông dân, cá nhân và tổ chức tham gia phát triển KTTT trong nông nghiệp."],
+        "correct": 0
+    },
+    {
+        "question": "Hội Nông dân Việt Nam được công nhận là thành viên chính thức của Hội Nông dân Châu Á vì sự phát triển nông thôn bền vững vào năm nào?",
+        "choices": ["A. 2014.", "B. 2016.", "C. 2020.", "D. 2021"],
+        "correct": 1
+    },
+    {
+        "question": "Hội Nông dân Việt Nam được công nhận là thành viên chính thức của Tổ chức Nông dân Thế giới vào năm nào?",
+        "choices": ["A. 2018.", "B. 2020.", "C. 2021.", "D. 2022."],
+        "correct": 3
+    },
+    {
+        "question": "Hiệp định Thương mại tự do giữa Việt Nam và Liên minh Châu Âu (EVFTA) chính thức có hiệu lực vào năm nào?",
+        "choices": ["A. 2018.", "B. 2020.", "C. 2021.", "D. 2022."],
+        "correct": 1
+    },
+    {
+        "question": "Thị trường xuất khẩu nông lâm thủy sản lớn nhất của Việt Nam năm 2023 là?",
+        "choices": ["A. Trung Quốc.", "B. Mỹ.", "C. Nhật Bản.", "D. Ấn Độ."],
+        "correct": 0
+    },
+    {
+        "question": "Mặt hàng nông sản nào sau đây không phải mặt hàng xuất khẩu chủ lực của Việt Nam?",
+        "choices": ["A. Gạo.", "B. Tôm.", "C. Mây tre đan.", "D. Cà phê."],
+        "correct": 2
+    },
+    {
+        "question": "Sàn giao dịch thương mại điện tử là? (Điều 3, NĐ 52/2013/NĐ-CP về Thương mại điện tử)",
+        "choices": ["A. Website thương mại điện tử cho phép các thương nhân, tổ chức, cá nhân không phải chủ sở hữu website có thế tiến hành một phần hoặc toàn bộ quy trình mua bán hàng hóa, dịch vụ trên đó.", "B. Website thương mại điện tử cho phép các thương nhân, tổ chức, cá nhân là chủ sở hữu website có thể tiến hành bán hàng hóa hoặc cung ứng dịch vụ trên đó.", "C. C.Website thương mại điện tử cho phép các thương nhân, tổ chức, cá nhân là chủ sở hữu website có thể tiến hành bán hàng hóa.", "D. Hệ thống các gian hàng của các các thương nhân, tố chức, cá nhân không phải chủ sở hữu hoặc người quản lý website có thể tiến hành bán hàng hóa hoặc cung ứng dịch vụ trên đó."],
+        "correct": 0
+    },
+    {
+        "question": "Mô hình nông nghiệp tuần hoàn là gì?",
+        "choices": ["A. Là mô hình nông nghiệp áp dụng các nguyên tắc của Kinh tế tuần hoàn vào thực hành sản xuất, kinh doanh, phân phối và tiêu dùng các sản phẩm nông nghiệp.", "B. Là mô hình nông nghiệp khép kín, từ khâu khai thác tài nguyên - sản xuất - phân phối - tiêu dùng - khôi phục... luôn có sự gắn kết với nhau.", "C. Là mô hình nông nghiệp không chất thải, không phế phẩm, ứng dụng kỹ thuật truyền thống và những tiến bộ khoa học vào giải quyết triệt để phụ phẩm, chất thải.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Chuyển đổi số trong nông nghiệp ở Việt Nam là gì? (Chuyến đổi số trong nông nghiệp ở VN- Viện NC Chỉnh sách Nông nghiệp và Sức khỏe, Khoa kinh tế, Đại học Kinh tế Tp. HCM)",
+        "choices": ["A. Là việc sử dụng ứng dụng công nghệ nông nghiệp thông minh QR-Code để tăng tính minh bạch trong truy xuất nguồn gốc.", "B. Là việc minh bạch thông tin từ quá trình sản xuất, chế biến, bảo quản đến tiêu dùng.", "C. Là việc sử dụng ứng dụng công nghệ để tăng tính minh bạch trong truy xuất nguồn gốc.", "D. Là quá trình áp dụng các công nghệ số trong các hoạt động sản xuất, chế biến, phân phối, và tiêu thụ sản phẩm nông nghiệp."],
+        "correct": 3
+    },
+    {
+        "question": "Nông nghiệp thông minh có thể được hiểu là? (Wikipedia - Bách khoa toàn thư)",
+        "choices": ["A. Nền nông nghiệp ứng dụng công nghệ cao, công nghệ sản xuất, bảo quản sản phẩm an toàn, công nghệ quản lý, nhận diện sản phẩm theo chuỗi giá trị gắn với hệ thống trí tuệ nhân tạo.", "B. Nền nông nghiệp tự động hóa sử dụng trí tuệ nhân tạo, thay thế toàn bộ lao động thủ công trong sản xuất, chế biến và tiêu thụ.", "C. Nền nông nghiệp ứng dụng các công nghệ tiên tiến trên thế giới, cho năng xuất và chất lượng sản phẩm đạt ở mức cao nhất.", "D. Nền nông nghiệp tự động hóa, thay thế toàn bộ lao động thủ công trong sản xuất, chế biến và tiêu thụ."],
+        "correct": 0
+    },
+    {
+        "question": "Lợi ích của VietGAP là gì?",
+        "choices": ["a. Kiểm soát được các nguy cơ gây mất an toàn thực phẩm; an toàn cho sức khỏe thủy sản nuôi; an toàn cho môi trường nuôi, an toàn cho người lao động.", "B. Quản lý được thức ăn, vật tư đầu vào.", "C. Truy xuất được nguồn gốc sản phẩm.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Truy xuất nguồn gốc sản phẩm được hiểu như thế nào?",
+        "choices": ["A. Là giải pháp cho người tiêu dùng truy xuất, tìm hiểu về thông tin nguồn gốc xuất xứ của sản phẩm.", "B. Là việc truy ngược từ sản phẩm đang được bày bán trên kệ hàng về nơi sản xuất ban đầu, rà soát từng công đoạn trong chế biến và phân phôi.", "C. Là việc sử dụng công nghệ (điện thoại thông minh, Internet..) giúp người tiêu dùng tìm hiểu toàn bộ thông tin liên quan đến sản phẩm (Nhà sản xuất, nơi sản xuất và quy trình sản xuất từ nguyên liệu đến thành phẩm).", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "“Sản xuất thực phẩm” là gì?",
+        "choices": ["A. Là việc thực hiện các hoạt động trồng trọt, chăn nuôi, thu hái để tạo ra thực phẩm.", "B. Là việc thực hiện các hoạt động đánh bắt, khai thác để tạo ra thực phẩm.", "C. Là việc thực hiện các hoạt động sơ chế, chế biến, bao gói và bảo quản để tạo ra thực phẩm.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Điều lệ Tổ chức và hoạt động của Quỹ Hồ trợ nông dân, pháp nhân Quỹ Hỗ trợ nông dân được tổ chức ở mấy cấp Hội? (Khoản 1, Điều 23, Mục 1, Chương III Điều lệ tổ chức và hoạt động của Quỹ Hỗ trợ nông dãn ban hành theo Quyết định số 908- QD/HNDTW ngày 15/11/2011 của Ban Thường vụ Trung ương Hội NDVN).",
+        "choices": ["A. Ở 4 cấp Hội: Trung ương, cấp tỉnh, cấp huyện, cấp xã.", "B. Ở 3 cấp Hội: Trung ương, cấp tỉnh, cấp huyện.", "C. Ở 2 cấp Hội: Trung ương, cấp tỉnh.", "D. Cấp trung ương."],
+        "correct": 1
+    },
+    {
+        "question": "Theo quy định hiện nay, mức cho vay tối đa của Quỹ Hỗ trợ nông dân đối với hộ vay vốn là bao nhiêu? (Quyết định số 1816-QĐ/HNDTW, ngày 01/7/2016 của Ban Thường vụ Trung ương Hội ban hành đã nâng mức cho vay Quỹ HTND đổi với hộ vay từ không quá 50 triệu đồng/hộ lên tối đa 100 triệu đồng/hộ).",
+        "choices": ["A. 50 triệu đồng.", "B. 100 triệu đồng.", "C. 150 triệu đồng.", "D. 80 triệu đồng."],
+        "correct": 1
+    },
+    {
+        "question": "Theo quy định hiện nay, mức cho vay tối đa của Quỹ Hỗ trợ nông dân đối với một dự án Nhóm hộ là bao nhiêu? (Quyết định số 1816 - QĐ/HNDTW, Ngày 01/7/2016 của Ban Thường vụ Trung ương Hội NDVN ban hành đã nâng quy mô cho vay một dự án Nhóm hộ vay vốn Quỹ hỗ trợ nông dãn từ không quá 1,5 tỷ dồng lên tối đa 2 tỷ đồng)",
+        "choices": ["A. 1,0 tỷ đồng.", "B. 1,5 tỷ đồng.", "C. 2,0 tỷ đồng.", "D. 2,5 tỷ đồng."],
+        "correct": 2
+    },
+    {
+        "question": "Theo Điều lệ Tổ chức và hoạt động của Quỹ Hỗ trợ nông dân hiện hành thì nguồn vốn hoạt động của Quỹ HTND bao gồm những nguồn vốn nào sau đây? (Khoản 1, Điều 4, Mục 1, Chương II Điều lệ tổ chức và hoạt động của Quỹ Hô trợ nông dân ban theo Quyết định số 908- QD/HNDTW, ngày 15/11/2011 của Ban Thường vụ Trung ương Hội NDVN)",
+        "choices": ["A. Ngân sách Nhà nước cấp; ủng hộ; tài trợ của các tổ chức quốc tế; ủy thác; bổ sung từ kết quả hoạt động.", "B. Ngân sách Nhà nước cấp; ủng hộ; tài trợ của các tổ chức quốc tế; ủy thác; bổ sung từ kết quả hoạt động; huy động tiền gửi.", "C. Ngân sách Nhà nước câp; ủng hộ; tài trợ của các tô chức quôc tê; ủy thác; bổ sung từ kết quả hoạt động; huy động tiền gửi; phát hành giấy tờ có giá.", "D. Ngân sách Nhà nước câp; ủng hộ; tài trợ của các tổ chức quôc tê; ủy thác; bô sung từ kết quả hoạt động; phát hành giấy tờ có giá."],
+        "correct": 0
+    },
+    {
+        "question": "Theo Điều lệ Tồ chức và hoạt động của Quỹ Hỗ trợ nông dân hiện hành, người vay vốn của Quỹ Hỗ trợ nông dân là đối tượng nào sau đây?",
+        "choices": ["A. Hộ gia đình hội viên nông dân tự nguyện tham gia dự án nhóm hộ.", "B. Tổ hợp tác của hội viên nông dân, Họp tác xã nông nghiệp có ký họp đồng hoặc thỏa thuận hợp tác với Hội Nông dân.", "C. Các đối tượng khác khi có quyết định của Ban Thường vụ Trung ương Hội Nông dân Việt Nam.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Điều lệ Tổ chức và hoạt động của Quỹ Hỗ trợ nông dân hiện hành, vốn Quỹ Hỗ trợ nông dân cho vay theo nguyên tắc nào sau đây? (Điều 10, Mục 2, Chương II Điều lệ tố chức và hoạt động của Quỹ Hỗ trợ nông dân ban hành kèm theo Quyết định sổ 908 - QĐ/HNDTW ngày 15/11/2011 của Ban Thường vụ Trung uơng Hội Nông dân Việt Nam)",
+        "choices": ["A. Người vay phải sử dụng vốn vay đúng mục đích đã được cấp Hội có thẩm quyền phê duyệt.", "B. Người vay phải trả nợ đầy đủ, đúng hạn cả gốc và phí.", "C. Sử dụng vốn theo thẩm quyền của người vay.", "D. Đáp án A và B đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Điều lệ Tổ chức và hoạt động của Quỹ Hỗ trợ nông dân hiện hành thì hoạt động của Quỹ Hỗ trợ nông dân theo nguyên tắc nào sau đây? (Điều 3, Chương I Điều lệ tổ chức và hoạt động của Quỹ Hỗ trợ nông dân ban hành kèm theo Quyết định sổ 908 -QĐ/HNDTW ngày 15/11/2011 của Ban Thường vụ Trung ương Hội NDVN)",
+        "choices": ["A. Hoạt động Quỹ Hỗ trợ nông dân không vì mục đích lợi nhuận nhưng phải bảo toàn, phát triển vổn và bù đắp chi phí quản lý.", "B. Tự chịu trách nhiệm về hoạt động của Quỹ trước pháp luật; tuân thủ các quy định về nghiệp vụ tài chính, tín dụng theo quy định hiện hành của Nhà nước.", "C. Tự chịu trách nhiệm về hoạt động của Quỹ trước pháp luật.", "D. Đáp án A và B đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Giai đoạn từ năm 2022 đến 2025, Chính phủ Việt Nam quy định tiêu chí chuẩn hộ nghèo khu vực nông thôn như thế nào?",
+        "choices": ["A. Là hộ gia đình có thu nhập bình quân đầu người/tháng từ 1.000.000 đồng trở xuống và thiếu hụt từ 03 chỉ số đo lường mức độ thiếu hụt dịch vụ xã hội cơ bản trở lên.", "B. Là hộ gia đình có thu nhập bình quân đầu người/tháng từ 1.500.000 đồng trở xuống và thiếu hụt từ 03 chỉ số đo lường mức độ thiếu hụt dịch vụ xã hội cơ bản trở lên.", "C. Là hộ gia đình có thu nhập bình quân đầu người/tháng từ 2.000.000 đồng trở xuống và thiếu hụt từ 03 chỉ số đo lường mức độ thiếu hụt dịch vụ xã hội cơ bản trở lên.", "D. Là hộ gia đình có thu nhập bình quân đầu người/tháng từ 1.500.000 đồng trở xuống và thiếu hụt từ 03 chỉ số đo lường mức độ thiếu hụt dịch vụ xã hội."],
+        "correct": 1
+    },
+    {
+        "question": "Theo Luật Bảo vệ môi trường năm 2020, Chất thải rắn là gì?",
+        "choices": ["A. Là chất thải ở thể rắn.", "B. Là vật chất được thải ra từ sản xuất, kinh doanh, dịch vụ, sinh hoạt hoặc hoạt động khác.", "C. Là chất thải ở thể bùn thải.", "D. Câu A và B đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Luật Bảo vệ môi trường năm 2020, ứng phó với biến đổi khí hậu là gì?",
+        "choices": ["A. Là hoạt động của con người nhằm thích ứng với biến đổi khí hậu.", "B. Là hoạt động của con người nhằm giảm nhẹ phát thải khí nhà kính.", "C. Là hoạt động của con người tác động lên khí hậu và làm thay đổi tính chất của khí hậu.", "D. Câu A và B đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Theo Luật Bảo vệ môi trường năm 2020, Khí nhà kính là gì?",
+        "choices": ["A. Là loại khí trong khí quyển gây hiệu ứng nhà kính.", "B. Là các loại khí trong nhà kính.", "C. Là tất cả các loại khí nằm trong tầng bình lưu của Trái đất.", "D. Là các loại khí nằm trong tầng bình lưu."],
+        "correct": 0
+    },
+    {
+        "question": "Theo Luật Bảo vệ môi trường năm 2020, trách nhiệm của hộ gia đình, cá nhân được quy định như thế nào trong chi trả kinh phí dịch vụ thu gom, vận chuyên và xử lý chất thải?",
+        "choices": ["A. Hộ gia đình, cá nhân không có trách nhiệm, nghĩa vụ chi trả kinh phí dịch vụ thu gom, vận chuyển và xử lý chất thải.", "B. Hộ gia đình, cá nhân chỉ có trách nhiệm chi trả kinh phí dịch vụ thu gom, vận chuyển chất thải.", "Hộ gia đình, cá nhân có trách nhiệm chi trả kinh phí dịch vụ thu gom, vận chuyển và xử lý chất thải theo quy định của pháp luật.", "D. Hộ gia đình có trách nhiệm chi trả kinh phí dịch vụ thu gom, vận chuyển chất thải."],
+        "correct": 2
+    },
+    {
+        "question": "Theo quy định của Luật Khiếu nại năm 2011, việc khiếu nại được thực hiện bằng hình thức nào sau đây? (Theo Điều 8, Luật Khiếu nại năm 2011)",
+        "choices": ["A. Đơn khiếu nại hoặc khiếu nại trực tiếp.", "B. Thông qua người đại diện hợp pháp.", "C. Nhờ người khác khiếu nại.", "D. Câu A và B đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Khi tham gia Bảo hiểm xã hội tự nguyện, người tham gia được hưởng những chế độ nào sau đây?",
+        "choices": ["A. Ốm đau, thai sản, hưu trí, tử tuất.", "B. Hưu trí, tử tuất.", "C. Tai nạn lao động, bệnh nghề nghiệp, ốm đau, thai sản.", "D. Bệnh nghề nghiệp, ốm đau, thai sản."],
+        "correct": 1
+    },
+    {
+        "question": "Hằng tháng, người tham gia Bảo hiểm xã hội tự nguyện phải đóng phí là bao nhiêu % mức thu nhập tự lựa chọn?",
+        "choices": ["A. 20% mức thu nhập tháng do người lao động lựa chọn đế đóng vào quỹ hưu trí và tử tuất.", "B. 22% mức thu nhập tháng do người lao động lựa chọn để đóng vào quỹ hưu trí và tử tuất.", "C. 25% mức thu nhập tháng do người lao động lựa chọn để đóng vào quỹ hưu trí và tử tuất.", "D. 30% mức thu nhập tháng do người lao động lựa chọn để đóng vào quỹ hưu trí và tử tuất."],
+        "correct": 1
+    },
+    {
+        "question": "Căn cứ nào dưới đây để đóng phí khi tham gia Bảo hiểm y tế tự nguyện?",
+        "choices": ["A. Mức lương tổi thiều vùng.", "B. Mức lương cơ sở.", "C. Mức lương thực tế hàng tháng.", "D. Mức thu nhập hộ nghèo."],
+        "correct": 1
+    },
+    {
+        "question": "Nghị quyết số 19-NQ/TW, ngày 16/6/2022 của Đảng về nông nghiệp, nông dân, nông thôn đề ra mục tiêu cụ thể đến năm 2030 nào sau đây?",
+        "choices": ["A. Thu nhập bình quân của người dân nông thôn năm 2030 phấn đấu tăng gấp 2,5 - 3 lần so với năm 2020.", "B. Bình quân hằng năm đào tạo nghề cho khoảng 1,5 triệu lao động nông thôn.", "C. C.Tỉ lệ chất thải rắn sinh hoạt nông thôn được thu gom, xử lý theo quy định đạt 90%.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Nghị quyết số 20-NQ/TW, ngày 16/6/2022 của Đảng về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới đề ra mục tiêu cụ thể đến năm 2030 nào sau đây?",
+        "choices": ["A. Cả nước có khoảng 140.000 tổ hợp tác, với 2 triệu thành viên.", "B. Cả nước có khoảng 45.000 hợp tác xã với 8 triệu thành viên.", "C. Cả nước có khoảng 340 liên hiệp hợp tác xã với 1.700 hợp tác xã thành viên.", "D. Cả ba đáp án đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Chương trình mục tiêu quốc gia xây dựng Nông thôn mới giai đoạn 2021-2025 (Quyết định số 263/QĐ-TTg, ngày 22/02/2022 của Thủ tướng Chính phủ) đề ra mục tiêu cụ thể đến năm 2025 nào sau đây?",
+        "choices": ["A. Phấn đấu cả nưóc có ít nhất 80% số xã đạt chuẩn nông thôn mới.", "B. Phấn đấu cả nước có ít nhất 75% số xã đạt chuẩn nông thôn mới.", "C. Phấn đấu cả nước có ít nhất 70% số xã đạt chuẩn nông thôn mới.", "D. Phấn đấu cả nước có ít nhất 650% số xã đạt chuẩn nông thôn mới."],
+        "correct": 0
+    }
+]
